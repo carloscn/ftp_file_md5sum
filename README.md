@@ -1,6 +1,7 @@
 # ftp_file_md5sum
 
 input python3 ftp_file_list_md5.py [a] [b] [c]
+
 [a] (mode):
   0 is caculate the all files md5 and save the md5 to [b] file
   1 is compared c dir all files with b md5 file.
